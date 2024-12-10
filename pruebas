@@ -1,0 +1,14 @@
+macs={"Vlan    Mac Address       Type        Ports":
+"----    -----------       --------    -----",
+"0":    "000a.bbbb.cccc    DYNAMIC     Fa0/1",
+"1":    "001b.cddd.eeee    DYNAMIC     Fa0/2",
+"2":    "002c.aaaa.bbbb    DYNAMIC     Fa0/24",
+"10":    "003d.efff.gggg    STATIC      Fa0/5",
+"20":    "004e.hhhh.iiii    DYNAMIC     Gi1/1",
+"Total Mac Addresses for this criterion": "5"}
+
+#print(macs[8:20])
+#if "Mac Address" in macs:
+ #   print("tu mac address es: ",)
+
+print(macs["1"])
