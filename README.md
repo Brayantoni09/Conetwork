@@ -1,6 +1,10 @@
 # Descripción del Código
+#Por: Bryan Antonio Garcia Larez.
+##Ingenieria en redes y telecomunicaciones de la universidad politecnica de durango.
 
+##intruduccion.
 Este script en Python utiliza la biblioteca **Netmiko** para conectarse a switches Cisco y realizar una búsqueda de una dirección MAC específica dentro de una red. Es útil en entornos de redes para rastrear dispositivos conectados y analizar la topología mediante el protocolo **CDP (Cisco Discovery Protocol)**.
+Este trabajo se realizo con el aprendizaje obtenido con el mestro Eliud Bueno Moreno, como proyecto para la implementacion de la automatizacion en las redes.
 
 ---
 
